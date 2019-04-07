@@ -1,0 +1,6 @@
+1. HSMS-285x series diode
+2. 50nH inductor
+3. 5nH inductor
+4. 21nH inductor (preferable 21.5nH)
+5. 100pF cap
+6. 47k Ohm resistor
